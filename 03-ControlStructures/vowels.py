@@ -4,9 +4,11 @@
 text = "This is a sample text."
 vowels = "aeiouAEIOU"
 vowel_count = 0
-
+i = 0
 # Count vowels in the text
-for char in text:
+while i < len(text):
+    char = text[i]
+    i += 1
     if char in vowels:
         vowel_count += 1
 
