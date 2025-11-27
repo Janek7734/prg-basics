@@ -1,0 +1,8 @@
+seven wonders: Chichen Itza
+ seven wonders: Christ the Redeemer
+ seven wonders: Great Wall of China
+ seven wonders: Machu Picchu
+ seven wonders: Petra
+ seven wonders: Roman Colosseum
+ seven wonders: Taj Mahal
+ 

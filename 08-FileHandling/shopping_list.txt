@@ -1,0 +1,6 @@
+bread
+butter
+egg
+vegetables
+fruits
+candys
